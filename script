@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sudo cp -r /var/lib/jenkins/workspace/webSite /usr/share/nginx/html
